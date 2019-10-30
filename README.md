@@ -5,6 +5,24 @@ LeopotamGroup library for unity3d engine.
 
 ----------------------------------------------------------------------------
 
+# Installation
+
+## As unity module
+This repository can be installed as unity module directly from git url. In this way new line should be added to `Packages/manifest.json`:
+```
+"com.leopotam.group-library": "https://github.com/Leopotam/LeopotamGroupLibraryUnity.git",
+```
+By default last released version will be used. If you need trunk / developing version then `develop` name of branch should be added after hash:
+```
+"com.leopotam.group-library": "https://github.com/Leopotam/LeopotamGroupLibraryUnity.git#develop",
+```
+
+## As .unitypackage or source code
+[Releases] (https://github.com/Leopotam/LeopotamGroupLibraryUnity/releases)
+Or just clone this repo into your `Assets/` folder.
+
+----------------------------------------------------------------------------
+
 > Examples moved to [separate repository](https://github.com/Leopotam/LeopotamGroupLibraryUnity.Examples/)
 
 ----------------------------------------------------------------------------

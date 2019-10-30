@@ -1,0 +1,28 @@
+{
+    "name": "com.leopotam.group-library",
+    "author": "Leopotam",
+    "displayName": "Leopotam Group Library Unity",
+    "description": "Tools library for unity 3d game engine: animator graph helpers, serialization (json), localization, event routing (eventbus, ui actions), embedded scripting, uGui xml markup, threading, tweening, in-memory protection and other helpers (pure C#).",
+    "unity": "2019.1",
+    "version": "2019.2.22-preview",
+    "keywords": [
+        "animator",
+        "serialization",
+        "localization",
+        "eventbus",
+        "scripting",
+        "xml",
+        "threading",
+        "tweening",
+        "protection",
+        "performance"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Leopotam/LeopotamGroupLibraryUnity.git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.leopotam.com"
+    }
+}

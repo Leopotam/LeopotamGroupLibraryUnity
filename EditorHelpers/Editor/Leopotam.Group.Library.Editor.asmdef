@@ -1,0 +1,16 @@
+{
+    "name": "Leopotam.Group.Library.Editor",
+    "references": [
+        "GUID:545cf19632f56a34da1c6d0a88ae4ede"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -16,14 +17,14 @@ MonoBehaviour:
   _buttonPressedSprite: {fileID: 0}
   _buttonHighlightedSprite: {fileID: 0}
   _buttonDisabledSprite: {fileID: 0}
-  _buttonNormalColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  _buttonPressedColor: {r: 1, g: 0.5, b: 0.5, a: 1}
+  _buttonNormalColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+  _buttonPressedColor: {r: 1, g: 0.5019608, b: 0.5019608, a: 1}
   _buttonHighlightedColor: {r: 1, g: 0.78431374, b: 0.78431374, a: 1}
-  _buttonDisabledColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  _buttonDisabledColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
   _sliderBackgroundSprite: {fileID: 0}
   _sliderForegroundSprite: {fileID: 0}
   _sliderHandleSprite: {fileID: 0}
-  _sliderBackgroundColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  _sliderBackgroundColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
   _sliderForegroundColor: {r: 1, g: 1, b: 1, a: 1}
   _sliderHandleColor: {r: 1, g: 1, b: 1, a: 1}
   _toggleBackgroundSprite: {fileID: 0}
@@ -36,12 +37,12 @@ MonoBehaviour:
     type: 0}
   _scrollbarHandleSprite: {fileID: 10905, guid: 0000000000000000f000000000000000,
     type: 0}
-  _scrollbarBackgroundColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  _scrollbarBackgroundColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
   _scrollbarHandleColor: {r: 1, g: 1, b: 1, a: 1}
   _scrollbarWidth: 16
   _inputBackgroundSprite: {fileID: 0}
   _inputBackgroundColor: {r: 0.20784314, g: 0.20784314, b: 0.20784314, a: 0.9411765}
-  _inputPlaceholderColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  _inputPlaceholderColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
   _inputSelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
   _inputPlaceholderStyle: 2
   _inputMargin: 10
